@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/mpettis/Personal/enrs/src'
+let g:netrw_dirhist_2='scp://fls2/~quantum/'
+let g:netrw_dirhist_3='scp://fls2/~quantum/science/'
+let g:netrw_dirhist_4='scp://fls2/~quantum/science/src-europe/'
