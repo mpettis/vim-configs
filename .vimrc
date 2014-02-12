@@ -36,6 +36,12 @@ set ruler
 set backspace=indent,eol,start
 set laststatus=2
 
+"set sufficient command history
+"accessible by
+"q:
+"in normal mode
+set history=1000
+
 " Set relative line numbering.
 "set relativenumber
 
