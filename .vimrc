@@ -381,3 +381,7 @@ function Ec2(name)
     execute "e scp://" . a:name . "/~quantum/"
 endfunction
 
+
+" Turn everything into (multi)tabs
+nnoremap <leader>m :tab sball<CR>
+
